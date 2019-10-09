@@ -1,0 +1,30 @@
+
+h1 {
+  background-color: yellow;
+  font-size: 40pt;
+}
+h1 {
+  font-style: oblique;
+}
+#p1 {background-color:rgba(255,0,0,0.3);}
+#p2 {background-color:rgba(0,255,0,0.3);}
+#p3 {background-color:rgba(0,0,255,0.3);}
+#p4 {background-color:rgba(192,192,192,0.3);}
+#p5 {background-color:rgba(255,255,0,0.3);}
+#p6 {background-color:rgba(255,0,255,0.3);}
+h1 {
+  text-shadow: 3px 3px 5px Red;
+}
+p {
+  font-style: oblique;
+  font-size: 40pt;
+}
+.pippeli {
+  text-shadow: 3px 3px 5px Red;
+  font-size: 40pt;
+    font-style: oblique;
+}
+button {
+  right: 700px;
+  width: 200px;
+  height: 100px;
